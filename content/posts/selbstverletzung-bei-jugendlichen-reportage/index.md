@@ -1,7 +1,7 @@
 +++
 title = "Selbstverletzung bei Jugendlichen (Reportage) "
 date = "2024-06-11"
-draft = false
+draft = true
 pinned = false
 image = "grafik-deutsch.png"
 +++
