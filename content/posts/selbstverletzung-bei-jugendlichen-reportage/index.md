@@ -3,6 +3,7 @@ title = "Selbstverletzung bei Jugendlichen (Reportage) "
 date = "2024-06-11"
 draft = false
 pinned = false
+image = "grafik-deutsch.png"
 +++
 Zwischen Schmerz und Hoffnung
 Die Narben verraten es, aber keiner kann es verstehen. 
