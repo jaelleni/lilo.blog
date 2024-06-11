@@ -1,7 +1,7 @@
 +++
 title = "Selbstverletzung bei Jugendlichen (Reportage) "
 date = "2024-06-11"
-draft = true
+draft = false
 pinned = false
 +++
 Zwischen Schmerz und Hoffnung
